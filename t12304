@@ -10,7 +10,7 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img src="https://disk.yandex.ru/i/anabWjqX85c6Pw">
+        <img src="https://disk.yandex.ru/i/anabWjqX85c6Pw.png">
         <p>Lorem ipsum i tak dalee</p>
         <button id="buy">Купить</button>
     </div>
