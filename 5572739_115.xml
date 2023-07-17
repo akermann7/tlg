@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml_catalog date="2023-07-17T12:37:00+03:00">
+    <shop>
+        <name>FotonFly</name>
+        <company>FotonFly</company>
+        <url>https://fotonfly.ru</url>
+        <platform>Creatium</platform>
+        <categories>
+            <category id="1">Медицинские светильники</category>
+            <category id="10" parentId="1">Однокупольные</category>
+            <category id="11" parentId="1">Двухкупольные</category>
+            <category id="2">Ветеринарные светильники</category>
+            <category id="20" parentId="2">Однокупольные</category>
+            <category id="21" parentId="2">Двухкупольные</category>
+        </categories>
+        <offers>
+            <offer id="medicinskij-hirurgicheskij-svetilnik-fotonfly-5m">
+                <name>Медицинский хирургический светильник FotonFLY 5М</name>
+                <vendor>FotonFLY</vendor>
+                <url>https://fotonfly.ru/medicinskij-hirurgicheskij-svetilnik-fotonfly-5m</url>
+                <price>340000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <picture>https://i.1.creatium.io/34/f1/08/a1e1d5f4515fa3dd645bd3d5dde37903f4/1.jpg</picture>
+                <description>Индивидуальность – потолочный подвес изготавливается по замерам клиента, под высоту потолков от 2,4 м до 4,5 м.
+Настенный вариант крепления или передвижная модель. Легкая конструкция – вес купола 4,5 кг, в потолочном или настенном исполнении вес подвеса от 11 до 15 кг.
+В передвижном исполнении вес передвижного устройства 45 кг.</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <weight>5</weight>
+            </offer>
+            <offer id="medicinskij-hirurgicheskij-svetilnik-fotonfly-5m-a">
+                <name>Медицинский хирургический светильник FotonFLY 5M-A</name>
+                <vendor>FotonFLY</vendor>
+                <url>https://fotonfly.ru/medicinskij-hirurgicheskij-svetilnik-fotonfly-5m-a</url>
+                <price>420000</price>
+                <currencyId>RUR</currencyId>
+                <categoryId>10</categoryId>
+                <picture>https://i.1.creatium.io/34/f1/08/a1e1d5f4515fa3dd645bd3d5dde37903f4/1.jpg</picture>
+                <description>Срок службы светодиодов более 50 тысяч часов. Индивидуальность – потолочный подвес изготавливается по замерам клиента, под высоту потолков от 2,4 м до 4,5 м. 
+                    Настенный вариант крепления или передвижная модель. 
+                    Легкая конструкция – вес купола 4,5 кг, в потолочном или настенном исполнении вес подвеса от 11 до 15 кг. 
+                    В передвижном исполнении вес передвижного устройства 45 кг.</description>
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <weight>5</weight>
+            </offer>
+        </offers>
+    </shop>
+</xml_catalog>
